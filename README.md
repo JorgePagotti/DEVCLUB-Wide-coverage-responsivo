@@ -1,7 +1,7 @@
 <h1>Wide Coverage Responsivo</h1>
 <br>
 <br>
-<h2widtch:200px>Aqui abaixo segue o meu segundo projeto criado usando as mesclagens das linguangens e tecnologias HTML e CSS, para estilizalção e responsividade no <a href=https://rodolfomori.com.br/devclub>DevClub</a> </h2>
+<h2widtch:200px>Aqui abaixo segue o meu segundo projeto criado usando as mesclagens das linguangens e tecnologias HTML e CSS, para estilização e responsividade no <a href=https://rodolfomori.com.br/devclub>DEVCLUB</a> </h2>
 <br> 
 <br>
 <h3>Tecnolgias utilizadas</h3>
