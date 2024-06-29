@@ -1,7 +1,7 @@
 <h1>Wide Coverage Responsivo</h1>
 <br>
 <br>
-<h2widtch:200px>Aqui abaixo segue o meu primeiro projeto criado usando as mesclagens das linguangens e tecnologias HTML e CSS, para estilizalção e responsividade no <a href=https://rodolfomori.com.br/devclub>DevClub</a> </h2>
+<h2widtch:200px>Aqui abaixo segue o meu segundo projeto criado usando as mesclagens das linguangens e tecnologias HTML e CSS, para estilizalção e responsividade no <a href=https://rodolfomori.com.br/devclub>DevClub</a> </h2>
 <br> 
 <br>
 <h3>Tecnolgias utilizadas</h3>
@@ -11,7 +11,7 @@
 
 <h4>Aqui está versão Desktop e mobile.</h4>
 <br>
-<video src=Gravação de Tela 2024-06-27 222746.mp4 />
+<img src="Design sem nome (1).gif" alt="video" />
 
 
-# Wide-Coverage-Responsivo
+
